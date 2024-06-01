@@ -1,0 +1,14 @@
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\bin\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.exe
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\bin\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.deps.json
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\bin\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.runtimeconfig.json
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\bin\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.dll
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\bin\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.pdb
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.AssemblyInfoInputs.cache
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.AssemblyInfo.cs
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.dll
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\refint\Sistema_De_Hospedagem_De_Hotel.dll
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.pdb
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\Sistema_De_Hospedagem_De_Hotel.genruntimeconfig.cache
+C:\Users\darkr\source\repos\Sistema_De_Hospedagem_De_Hotel\obj\Debug\net8.0\ref\Sistema_De_Hospedagem_De_Hotel.dll
